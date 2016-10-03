@@ -1,0 +1,14 @@
+{
+  "name": "dron-webpack-babel-postcss-jsx",
+  "version": "0.1.0",
+  "description": "Deploy webpack with dev-server, babel, postcss and jsx loaders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Kalmykov <vladimirmorulus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "camelize": "github:polyvitamins/camelize"
+  }
+}
